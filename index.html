@@ -49,7 +49,7 @@
 
       </div>
       <div class="bars1">
-        <a href="#" class="plans" id="hover-trigger16">
+        <a href="https://billing.stripe.com/p/login/7sIeWl39hfBH0OkaEE" class="plans" id="hover-trigger16">
           <div id="spinning-img16">
             <img class="circle-image" src="images/Empty Star.svg" alt="Spinning Image">
           </div>
@@ -96,7 +96,8 @@
       </a>
       <script>
         $(document).ready(function () {
-          $("a.plans").click(function () {
+          $("a#hover-trigger").click(function (event) {
+            event.preventDefault();
             $('html, body').animate({
               scrollTop: $(".thirteenth-container").offset().top
             }, 1000);
@@ -105,7 +106,7 @@
       </script>
     </div>
     <div class="bars1">
-      <a href="#" class="plans" id="hover-trigger1">
+      <a href="https://billing.stripe.com/p/login/7sIeWl39hfBH0OkaEE" class="plans" id="hover-trigger1">
         <div id="spinning-img1">
           <img class="circle-image" src="images/Empty Star.svg" alt="Spinning Image">
         </div>
