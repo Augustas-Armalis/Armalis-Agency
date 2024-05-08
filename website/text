@@ -1,0 +1,95 @@
+<div class="third-container1">
+  <div class="flying-card1" id="crd4">
+    <div class="upper-card">
+      <div class="card-number">4</div>
+      <div class="card-title">Code</div>
+    </div>
+    <div class="down-card">
+      <p>“no code” has become mediocre. We hand code everything</p>
+    </div>
+  </div>
+
+  <div class="flying-card1" id="crd5">
+    <div class="upper-card">
+      <div class="card-number">5</div>
+      <div class="card-title">Own</div>
+    </div>
+    <div class="down-card">
+      <p>An unique selling face on the entire internet</p>
+    </div>
+  </div>
+
+  <div class="flying-card1" id="crd6">
+    <div class="upper-card">
+      <div class="card-number">6</div>
+      <div class="card-title">Direct</div>
+    </div>
+    <div class="down-card">
+      <p>Copywriters will make your web visitors convert into buying fans</p>
+    </div>
+  </div>
+</div>
+
+<div class="fourth-container">
+  <div class="fourth-title1">
+    <div class="load-in-container">
+      <div class="title41" id="title">
+        <h1 style="padding-right: 1vw;">Stand</h1>
+      </div>
+      <div class="title41" id="title">
+        <h1 style="padding-right: 1vw;">out</h1>
+      </div>
+      <div class="title41" id="title">
+        <h1 style="padding-right: 1vw;">with</h1>
+      </div>
+      <div class="title41" id="title">
+        <h1 style="padding-right: 1vw;">a</h1>
+      </div>
+      <div class="title41" id="title">
+        <h1>web</h1>
+      </div>
+    </div>
+  </div>
+  <div class="fourth-text1" id="text-line-container">
+    <p class="text-line">Build any website you desire, from portfolios to shops or blogs. Limitation is only your
+      imagination</p>
+  </div>
+</div>
+
+<div class="fifth-container">
+  <div class="fourth-title">
+    <div class="load-in-container">
+      <div class="title42" id="title">
+        <h1 style="padding-right: 1vw;">Best</h1>
+      </div>
+      <div class="title42" id="title">
+        <h1 style="padding-right: 1vw;">website</h1>
+      </div>
+      <div class="title42" id="title">
+        <h1>projects</h1>
+      </div>
+    </div>
+  </div>
+  <div class="size-scroll-foto">
+    <div class="marquee">
+      <video autoplay muted loop id="bgVideo-design">
+        <source src="https://augustasarmalis.com/images/background video.mp4" type="video/mp4">
+      </video>
+      <div class="marquee-inner">
+        <div class="marquee-part" id="web-example-foto1"></div>
+        <div class="marquee-part" id="web-example-foto2"></div>
+        <div class="marquee-part" id="web-example-foto3"></div>
+        <div class="marquee-part" id="web-example-foto4"></div>
+        <div class="marquee-part" id="web-example-foto5"></div>
+        <div class="marquee-part" id="web-example-foto6"></div>
+        <!-- Duplicate -->
+        <div class="marquee-part" id="web-example-foto1"></div>
+        <div class="marquee-part" id="web-example-foto2"></div>
+        <div class="marquee-part" id="web-example-foto3"></div>
+        <div class="marquee-part" id="web-example-foto4"></div>
+        <div class="marquee-part" id="web-example-foto5"></div>
+        <div class="marquee-part" id="web-example-foto6"></div>
+      </div>
+    </div>
+  </div>
+</div>
